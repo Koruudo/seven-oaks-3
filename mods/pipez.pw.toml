@@ -1,13 +1,13 @@
 name = "Pipez"
-filename = "pipez-1.20.1-1.2.5.jar"
+filename = "pipez-forge-1.20.1-1.2.26.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "13392b195610f5a3bbcfcedbaeb92f22b96581fb"
+hash = "1c32e2fff406f1e8ee6b0689eca257f6bc28e4c7"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 4916633
+file-id = 6945379
 project-id = 443900

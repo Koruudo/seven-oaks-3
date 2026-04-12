@@ -1,6 +1,6 @@
 name = "JourneyMap Integration"
 filename = "jmi-forge-1.20.1-0.14-48.jar"
-side = "both"
+side = "client"
 
 [download]
 hash-format = "sha1"

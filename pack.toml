@@ -1,0 +1,13 @@
+name = "Seven Oaks 3"
+author = "Koruudo"
+version = "3.3"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "6117ba6d9172b46ff58f4d693ca2bd2695971395aba63d92afe18c29f76a95b9"
+
+[versions]
+forge = "47.4.0"
+minecraft = "1.20.1"

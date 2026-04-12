@@ -1,0 +1,16 @@
+name = "Valkyrien Pirates"
+filename = "ValkyrienPirates-1.7.1-forge.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "573697ceaa0bf504794ddccde338888feff4685c"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6535556
+project-id = 1012074
+
+[option]
+optional = true

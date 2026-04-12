@@ -3,6 +3,6 @@ filename = "hexerei-0.4.2.3.jar"
 side = "both"
 
 [download]
-url = "https://raw.githubusercontent.com/Koruudo/seven-oaks-3/main/mods/hexerei-0.4.2.3.jar"
+url = "https://github.com/Koruudo/seven-oaks-3/raw/refs/heads/main/mods/hexerei-0.4.2.3.jar"
 hash-format = "sha1"
 hash = "01d67f2c92aecb2e72eba3d37b7571e3ffe7297b"

@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "add-local-mods.sh"
-hash = "177c014d28c6f3bddadf7a99520c11d52d09b7adfe3c8bca65daa5fd54f980f0"
+hash = "57e820eef41ea7d0aeb51d02f253b86d4a97394269c02ced1e4aad2c8bd35427"
 
 [[files]]
 file = "config/Advancedperipherals/general.toml"
@@ -6743,7 +6743,7 @@ metafile = true
 
 [[files]]
 file = "mods/comics-bubbles-chat.pw.toml"
-hash = "f3c462d3242ab96fe6fd660e9fe20a26693872fe7c517f4b68c7ce9e7c7619ab"
+hash = "772f7491fe885588582f0acaae83bee6b9414ee1dbc4caa61cbdcdf87fafeced"
 metafile = true
 
 [[files]]
@@ -6793,7 +6793,7 @@ metafile = true
 
 [[files]]
 file = "mods/corail-tombstone.pw.toml"
-hash = "5ad2ca9a0ca7595d0846d561b12fd319791ac3881d3c63e6b1bf3cea13d94e67"
+hash = "d7a39fc4bd2359ab57fdbffe1f71c3940a7153caab5f966847961928be29ae3b"
 metafile = true
 
 [[files]]
@@ -6888,7 +6888,7 @@ metafile = true
 
 [[files]]
 file = "mods/create-recycle-everything.pw.toml"
-hash = "012bd5773e9fd4076d5710d3a7c69b4e5fa624791241dd1c845f678f8acc18c3"
+hash = "7bda1bcb0869e55c120f807f72598925c7504f8eec14d8797ae7cb8d9bbddeb1"
 metafile = true
 
 [[files]]
@@ -7071,7 +7071,7 @@ hash = "1231bb17e3db1a7d4e98800bb070ec1e7e7c016b934e1eb11c1cc63d11d0aa2d"
 
 [[files]]
 file = "mods/entityculling.pw.toml"
-hash = "827f2f4f8363914c761cdb9e6b19df4aa0ece30b4c137fea76b3115b9e4a8301"
+hash = "19eb7cf9c0f5a252cdc3e05dc43fcb95e0bc29d50cfa3aa7c798e2c75f0dc131"
 metafile = true
 
 [[files]]
@@ -7270,7 +7270,7 @@ hash = "419db9f15af0ac694dc53a9cc99fa97c3a0ef787ae3d43d9aff87d2030e3f556"
 
 [[files]]
 file = "mods/hexerei.pw.toml"
-hash = "bea698989e14ea380b93ba2b6a7bbe1e2b0068aefaa6b87678e144261718c348"
+hash = "d08640accd89a5d66e565b24eaa046f3cd3b5eabf36c34e7dbd76fd500761f59"
 metafile = true
 
 [[files]]
@@ -7780,7 +7780,7 @@ metafile = true
 
 [[files]]
 file = "mods/not-enough-animations.pw.toml"
-hash = "d471a67f552d07783c08f8c15b3027ab0e0cab8e2fc72f38352de28ebe0704e6"
+hash = "c3957c776a7c6213f49e9145d26081ecdf5b00437949933394b8f9c1624def21"
 metafile = true
 
 [[files]]
@@ -7964,22 +7964,22 @@ metafile = true
 
 [[files]]
 file = "mods/realm-rpg-dragon-wyrms.pw.toml"
-hash = "29c45c3e15b73edfaa59c3b6c4208c0afc944986ce8f85db4ec45d6ada0949b9"
+hash = "7e73d9642c7aad2c1d2f8f20e7b444c7264a588dfc53cf1b1ca5596c20f64a05"
 metafile = true
 
 [[files]]
 file = "mods/realm-rpg-fallen-adventurers.pw.toml"
-hash = "b6f6aac484a7cb1b65d5b85617232c8cde21421d227d9a3e33c42d46ef99cee1"
+hash = "f4047bb68d437ab694c828796b5da454741ec5d92800436ab5ca957ea114d071"
 metafile = true
 
 [[files]]
 file = "mods/realm-rpg-quests-rewards.pw.toml"
-hash = "7c1362d0a3ec71b586fa352614578189d150a3c1414e5f1d901958a67b1f1e76"
+hash = "871e4c028fee3591fe23c06de569306b7407baaad1cbb764d4089bc30e0687ca"
 metafile = true
 
 [[files]]
 file = "mods/realm-rpg_pots-and-mimics-rpg.pw.toml"
-hash = "8685e6a2c99ec6bc943bd44b34f05b7aaf9e61bbaf3c645a34062f1d3613f8a2"
+hash = "c7c4c4548e432f782177a080868171897b61870f1dcde61ea47eaa2d5e672a9e"
 metafile = true
 
 [[files]]

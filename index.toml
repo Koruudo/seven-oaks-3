@@ -5715,17 +5715,17 @@ metafile = true
 
 [[files]]
 file = "mods/realm-rpg-dragon-wyrms.pw.toml"
-hash = "f62d7a222828a775e82d08a8e174b61c01a11a59531b108643d8e33afb400eaf"
+hash = "08de9400802875645d82d7682c9080cdcc82b6788cc41ea630574340e22a5fd4"
 metafile = true
 
 [[files]]
 file = "mods/realm-rpg-fallen-adventurers.pw.toml"
-hash = "5cbc2a1d0ba8c484dd895f33af1dc7c068eaef2329b070fc040b2c3946d18d9d"
+hash = "e90e3fe32c60cf7c98e32d75982c6dd275d67245e28fce3cffb9eae2b6fe26f3"
 metafile = true
 
 [[files]]
 file = "mods/realm-rpg-quests-rewards.pw.toml"
-hash = "d8445c41a11d0e813ccf86a7b5a3ba0677280a1c1cab6054dfe2445cdb8f0744"
+hash = "c534c4011cb1edc6cf278daab38530ad3c1a8ee00c402dbff4e5bec011fb7ff3"
 metafile = true
 
 [[files]]

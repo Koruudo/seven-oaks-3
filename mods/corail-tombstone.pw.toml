@@ -3,5 +3,6 @@ filename = "tombstone-1.20.1-9.0.9.jar"
 side = "both"
 
 [download]
+url = "https://raw.githubusercontent.com/Koruudo/seven-oaks-3/main/mods/tombstone-1.20.1-9.0.9.jar"
 hash-format = "sha1"
 hash = "24d376e3f0aed78aa38d8010e097be856220fc3c"

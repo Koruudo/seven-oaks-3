@@ -3,5 +3,6 @@ filename = "[1.20-1.20.1] Comics Bubbles Chat-1.3.4.jar"
 side = "both"
 
 [download]
+url = "https://raw.githubusercontent.com/Koruudo/seven-oaks-3/main/mods/%5B1.20-1.20.1%5D%20Comics%20Bubbles%20Chat-1.3.4.jar"
 hash-format = "sha1"
 hash = "704023d1816fd4a22b5c1176b73221e6e1caaede"

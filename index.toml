@@ -4149,6 +4149,10 @@ file = "config/zeta-common.toml"
 hash = "b5ae0f1685b3136c29758855f06e1eb4fa9878ef78d25b7adcbcd88391074c86"
 
 [[files]]
+file = "mods/[1.20-1.20.1] Comics Bubbles Chat-1.3.4.jar"
+hash = "f0f828feb89b5d91e0737db981a5013520437ec56fa482e907e91dca36fc7062"
+
+[[files]]
 file = "mods/absent-by-design.pw.toml"
 hash = "e02bd19825959a050361567842d8d253d7d4e2d8e128942a41ce381fc0bd8e95"
 metafile = true
@@ -4714,6 +4718,10 @@ hash = "9d7971a7af2ff4a96a0e5aede76f9cf8dc978da601e2754f79d6ec8631125bb9"
 metafile = true
 
 [[files]]
+file = "mods/create_recycle_1.0.2_forge_1.20.1.jar"
+hash = "dbdf418ae63f929600784db71310ed80c7e7c30a60d1f3467dccb2a9d81caa52"
+
+[[files]]
 file = "mods/createaddition.pw.toml"
 hash = "8a5f33277995fccd2be6793c4fba1b5d657983be32f0b47e4afab4eac70b8ab8"
 metafile = true
@@ -4857,6 +4865,10 @@ metafile = true
 file = "mods/entangled.pw.toml"
 hash = "42988dcd8f18c2473cf30f63996e331a680dc7df9145cbe26d3945222c928e4e"
 metafile = true
+
+[[files]]
+file = "mods/entityculling-forge-1.10.1-mc1.20.1.jar"
+hash = "1231bb17e3db1a7d4e98800bb070ec1e7e7c016b934e1eb11c1cc63d11d0aa2d"
 
 [[files]]
 file = "mods/entityculling.pw.toml"
@@ -5037,6 +5049,10 @@ metafile = true
 file = "mods/hammer-lib.pw.toml"
 hash = "1a6b03437d3f80ac96348dc8e5f1077f3271f594a8a560c43375117fd8f176c1"
 metafile = true
+
+[[files]]
+file = "mods/hexerei-0.4.2.3.jar"
+hash = "419db9f15af0ac694dc53a9cc99fa97c3a0ef787ae3d43d9aff87d2030e3f556"
 
 [[files]]
 file = "mods/hexerei.pw.toml"
@@ -5524,6 +5540,10 @@ hash = "232f73206d09fb0c8cac662fb82bbb53367795818ef05f70c290e391a5e4fa03"
 metafile = true
 
 [[files]]
+file = "mods/notenoughanimations-forge-1.12.1-mc1.20.1.jar"
+hash = "84e77cf4a1859151aab6d1bbf2f212e6f08a3380fbbdd527761ca2812ab80226"
+
+[[files]]
 file = "mods/numismatics.pw.toml"
 hash = "5f36a03fb4cf32373ed78ee4813bea0376eb62bf287ffb640375f1c9b5795949"
 metafile = true
@@ -5707,6 +5727,22 @@ metafile = true
 file = "mods/realm-rpg-quests-rewards.pw.toml"
 hash = "d8445c41a11d0e813ccf86a7b5a3ba0677280a1c1cab6054dfe2445cdb8f0744"
 metafile = true
+
+[[files]]
+file = "mods/realmrpg_dragon_wyrms_1.0.1_forge_1.20.1.jar"
+hash = "c252a7900f6f518c7344755b4000a33ca2291941204ef849cbdf14626fcc6873"
+
+[[files]]
+file = "mods/realmrpg_pots_and_mimics_1.0.2_forge_1.20.1.jar"
+hash = "ec932057b0f296049b123f5a0949b161146e960992c835d66906f67138e6ce18"
+
+[[files]]
+file = "mods/realmrpg_quests-0.1.1-forge-1.20.1.jar"
+hash = "15cd8dc07d6519ba1d355c58bf0ff833b3add8f05454441c7cd61ecb082b480a"
+
+[[files]]
+file = "mods/realmrpg_skeletons-1.1.0-forge-1.20.1.jar"
+hash = "5206c8117f3869f6ea894c034f4a18d4def40ef8b0da106eb662ebd4e8ebbf36"
 
 [[files]]
 file = "mods/reap-mod.pw.toml"
@@ -6067,6 +6103,10 @@ metafile = true
 file = "mods/toast-control.pw.toml"
 hash = "1195cdfa90ac4ef4d5ebed8dbca1df990cf58b0a0fe3b9b965ccefa0cfd5a2e3"
 metafile = true
+
+[[files]]
+file = "mods/tombstone-1.20.1-9.0.9.jar"
+hash = "a335131063ae7231c21d902d77f1e43c018807b6a02c733daa4b9a479a32906e"
 
 [[files]]
 file = "mods/tool-belt.pw.toml"

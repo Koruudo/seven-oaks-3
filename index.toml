@@ -1,10 +1,6 @@
 hash-format = "sha256"
 
 [[files]]
-file = "mods/[1.20-1.20.1] Comics Bubbles Chat-1.3.4.jar"
-hash = "f0f828feb89b5d91e0737db981a5013520437ec56fa482e907e91dca36fc7062"
-
-[[files]]
 file = "mods/absent-by-design.pw.toml"
 hash = "e02bd19825959a050361567842d8d253d7d4e2d8e128942a41ce381fc0bd8e95"
 metafile = true
@@ -36,7 +32,7 @@ metafile = true
 
 [[files]]
 file = "mods/addonslib.pw.toml"
-hash = "1e37b70e5697c834a09fbfb4ed66774884292708de5012015f1330cb6a9180e9"
+hash = "b97a5d5f1ec66c22b1183a2dc9ab94591f4dbde9099721d35b667a5c3eb75461"
 metafile = true
 
 [[files]]
@@ -86,7 +82,7 @@ metafile = true
 
 [[files]]
 file = "mods/ambientsounds.pw.toml"
-hash = "21fad503e6156e35e09aec1a43f81aa7bf2fc6e39f80dc1ca4edbf10b5b4477a"
+hash = "9e20fc204a77d40d7f7eaba33d30aaaaccae564f8755fe15bc96d6b55a8d1400"
 metafile = true
 
 [[files]]
@@ -271,7 +267,7 @@ metafile = true
 
 [[files]]
 file = "mods/botania.pw.toml"
-hash = "31862fa4fcae1cd40268e143d166327274d76b365fd1f1fb78e9fae4fdc34cb1"
+hash = "3527ccd8867741dfe6d21c4b6bac9e87ce1f6373e5b98c5f2cc1ea52681bd687"
 metafile = true
 
 [[files]]
@@ -366,7 +362,7 @@ metafile = true
 
 [[files]]
 file = "mods/client-crafting.pw.toml"
-hash = "046d33a794ac1344f490efb982e5c2b5d7fc8648e63050e082e4658dcc7c903d"
+hash = "32ff70a3f4723efc3f6a852cf6ae5e7b9d1211164802caac3386c6ee23cd8f96"
 metafile = true
 
 [[files]]
@@ -396,7 +392,7 @@ metafile = true
 
 [[files]]
 file = "mods/collective.pw.toml"
-hash = "6f005ef786668ef8cc5c3e9f0d23fee671606fb94f5cd8fef810d8ef3988f0c6"
+hash = "5d1210ecd8af6eb50c34c5d342c5913f1a7a607ab7029b12b5ee891d1532f8f2"
 metafile = true
 
 [[files]]
@@ -411,7 +407,7 @@ metafile = true
 
 [[files]]
 file = "mods/comics-bubbles-chat.pw.toml"
-hash = "772f7491fe885588582f0acaae83bee6b9414ee1dbc4caa61cbdcdf87fafeced"
+hash = "ff6c167629661cf554060fb51c1679a4fe8ab7c03c6728e81d54f21eab0dbd7b"
 metafile = true
 
 [[files]]
@@ -516,7 +512,7 @@ metafile = true
 
 [[files]]
 file = "mods/create-diesel-generators.pw.toml"
-hash = "67e59bf0943ed4c82e9ede4622df77bb37d7f1f3f60af9490a18fae009471154"
+hash = "71918d13bde877a24fbe2be5a7cf93514c70ce170c50cd4c96eef0f36841a89a"
 metafile = true
 
 [[files]]
@@ -556,7 +552,7 @@ metafile = true
 
 [[files]]
 file = "mods/create-recycle-everything.pw.toml"
-hash = "7bda1bcb0869e55c120f807f72598925c7504f8eec14d8797ae7cb8d9bbddeb1"
+hash = "1d987c4ca9901405394b0a3988a40f2e046cae68008d7f192a60890660b98394"
 metafile = true
 
 [[files]]
@@ -566,7 +562,7 @@ metafile = true
 
 [[files]]
 file = "mods/create-stuff-additions.pw.toml"
-hash = "0219717181f948f215e9da02c77bf7a3159f87f53f2f6c2befc9fbdb0c0b2f45"
+hash = "5fc160d4d515898e384320354d30bb2e9d76dfc58e54e00c270b4d70dd762836"
 metafile = true
 
 [[files]]
@@ -580,17 +576,13 @@ hash = "9d7971a7af2ff4a96a0e5aede76f9cf8dc978da601e2754f79d6ec8631125bb9"
 metafile = true
 
 [[files]]
-file = "mods/create_recycle_1.0.2_forge_1.20.1.jar"
-hash = "dbdf418ae63f929600784db71310ed80c7e7c30a60d1f3467dccb2a9d81caa52"
-
-[[files]]
 file = "mods/createaddition.pw.toml"
 hash = "8a5f33277995fccd2be6793c4fba1b5d657983be32f0b47e4afab4eac70b8ab8"
 metafile = true
 
 [[files]]
 file = "mods/creativecore.pw.toml"
-hash = "ba80cc37957ed8c7f6766ea09fa2c0d4364e22d977a3d79cf1d95b0cec63e04d"
+hash = "9b9e2a9f268fd425d8f8a6d7f399a2f57999509655b718a357cba51ad0936bc1"
 metafile = true
 
 [[files]]
@@ -734,12 +726,8 @@ hash = "42988dcd8f18c2473cf30f63996e331a680dc7df9145cbe26d3945222c928e4e"
 metafile = true
 
 [[files]]
-file = "mods/entityculling-forge-1.10.1-mc1.20.1.jar"
-hash = "1231bb17e3db1a7d4e98800bb070ec1e7e7c016b934e1eb11c1cc63d11d0aa2d"
-
-[[files]]
 file = "mods/entityculling.pw.toml"
-hash = "19eb7cf9c0f5a252cdc3e05dc43fcb95e0bc29d50cfa3aa7c798e2c75f0dc131"
+hash = "9dae4d133b30d6775fce8b29cc8094201a6b8ea6809687f5eeb6d13fced46f74"
 metafile = true
 
 [[files]]
@@ -933,12 +921,8 @@ hash = "1a6b03437d3f80ac96348dc8e5f1077f3271f594a8a560c43375117fd8f176c1"
 metafile = true
 
 [[files]]
-file = "mods/hexerei-0.4.2.3.jar"
-hash = "419db9f15af0ac694dc53a9cc99fa97c3a0ef787ae3d43d9aff87d2030e3f556"
-
-[[files]]
 file = "mods/hexerei.pw.toml"
-hash = "d08640accd89a5d66e565b24eaa046f3cd3b5eabf36c34e7dbd76fd500761f59"
+hash = "6b75e21a40b8dcfe80a1d29ce4b8b3168b07f1329688de128f49bafb802d169b"
 metafile = true
 
 [[files]]
@@ -983,17 +967,17 @@ metafile = true
 
 [[files]]
 file = "mods/industrial-foregoing.pw.toml"
-hash = "762fded46cec5b2f224483c9fac2248184d8b88144556021be75a7f3c05c2da8"
+hash = "8144c6f823114a3ec18c520a7fba1bdeaecec846b89e08e276b310933352c102"
 metafile = true
 
 [[files]]
 file = "mods/integrated-crafting.pw.toml"
-hash = "7f2b5250b352932edb352b8dc41efc9eab319bcff532e95bc0ce3585a497f01d"
+hash = "d08fc2edb6c8d3018e40f4f37a2a073b7b8d5ae921a0aac156755c803eba4842"
 metafile = true
 
 [[files]]
 file = "mods/integrated-dynamics.pw.toml"
-hash = "7b2b0989aa1af7d3c5f93d3c08d80e5b465ce722425e8913960dfc029c2a113a"
+hash = "1cc41cb1bd07a814ddd8b791a2e9b1e01db67374cb5a936d6255e03141fca51e"
 metafile = true
 
 [[files]]
@@ -1018,7 +1002,7 @@ metafile = true
 
 [[files]]
 file = "mods/inventory-essentials.pw.toml"
-hash = "9779719134e508c31ef0cb08ed272daef6d3b4a8a5bff07e48f9695e88e5a410"
+hash = "aec1d5abcb5222888c8940e498e05fae0cdc54da2df49da8485ee2ad217ddf0d"
 metafile = true
 
 [[files]]
@@ -1063,7 +1047,7 @@ metafile = true
 
 [[files]]
 file = "mods/jei.pw.toml"
-hash = "29b62d42548542296d9932bcbb8a93ffba0b75b7cc859a67e596aeb1e048ace2"
+hash = "7462fac47d19eab330cdf24eb07c65a5c421ded2d94675fb8ef21cdbbb034c13"
 metafile = true
 
 [[files]]
@@ -1078,7 +1062,7 @@ metafile = true
 
 [[files]]
 file = "mods/json-things.pw.toml"
-hash = "87a44d6b5809a25d586f30c6a17f4a777194a582bd7c34e8504ae1abe4ba7c74"
+hash = "1efef6e736712c66ad307f7eeeb0fb8cf344908c643ebcfada612b8312c2d144"
 metafile = true
 
 [[files]]
@@ -1328,7 +1312,7 @@ metafile = true
 
 [[files]]
 file = "mods/minecolonies.pw.toml"
-hash = "b0d57d9d34e29aa2cff902608011cf878a2019bf701bd9a4de102a568b42c760"
+hash = "5dd9a5d148725a2b98625c6642a4cda0e9563565e3d406923809aa0dd60c4c79"
 metafile = true
 
 [[files]]
@@ -1348,7 +1332,7 @@ metafile = true
 
 [[files]]
 file = "mods/modernfix.pw.toml"
-hash = "dc0d55e51b5344c84fe5fea6d88f7443364d5d1e0ee5b16fce76718cd4404b1c"
+hash = "d27a9b44e3562cfd6ee8ffa9ffb4f7bd9df42f15652dc2885acf883304e45fe8"
 metafile = true
 
 [[files]]
@@ -1448,17 +1432,13 @@ metafile = true
 
 [[files]]
 file = "mods/not-enough-animations.pw.toml"
-hash = "c3957c776a7c6213f49e9145d26081ecdf5b00437949933394b8f9c1624def21"
+hash = "596d9d94362dc52db38afccb4ea1b105caf6ea8ca27dce115db95ac69b1956b2"
 metafile = true
 
 [[files]]
 file = "mods/not-enough-crashes-forge.pw.toml"
 hash = "2644d6a7f1b4326fc7bee43f7478c13d2a74197be08123d82b4c3f3d1d3b0014"
 metafile = true
-
-[[files]]
-file = "mods/notenoughanimations-forge-1.12.1-mc1.20.1.jar"
-hash = "84e77cf4a1859151aab6d1bbf2f212e6f08a3380fbbdd527761ca2812ab80226"
 
 [[files]]
 file = "mods/numismatics.pw.toml"
@@ -1482,7 +1462,7 @@ metafile = true
 
 [[files]]
 file = "mods/open-parties-and-claims.pw.toml"
-hash = "7c28442cd0ed14c96da1f331be121d754f8ced6afa7bfae709ba66988f5d8ceb"
+hash = "aaa56ccc7cd76183177724d7dcd3b4aa4f07024a4e6935a5681343d5717f4cac"
 metafile = true
 
 [[files]]
@@ -1631,42 +1611,6 @@ hash = "8b825284986ef33b9dd3fb91a7653095bd8f2ebeaa6e186f2ffb530b54035be0"
 metafile = true
 
 [[files]]
-file = "mods/realm-rpg-dragon-wyrms.pw.toml"
-hash = "7e73d9642c7aad2c1d2f8f20e7b444c7264a588dfc53cf1b1ca5596c20f64a05"
-metafile = true
-
-[[files]]
-file = "mods/realm-rpg-fallen-adventurers.pw.toml"
-hash = "f4047bb68d437ab694c828796b5da454741ec5d92800436ab5ca957ea114d071"
-metafile = true
-
-[[files]]
-file = "mods/realm-rpg-quests-rewards.pw.toml"
-hash = "871e4c028fee3591fe23c06de569306b7407baaad1cbb764d4089bc30e0687ca"
-metafile = true
-
-[[files]]
-file = "mods/realm-rpg_pots-and-mimics-rpg.pw.toml"
-hash = "c7c4c4548e432f782177a080868171897b61870f1dcde61ea47eaa2d5e672a9e"
-metafile = true
-
-[[files]]
-file = "mods/realmrpg_dragon_wyrms_1.0.1_forge_1.20.1.jar"
-hash = "c252a7900f6f518c7344755b4000a33ca2291941204ef849cbdf14626fcc6873"
-
-[[files]]
-file = "mods/realmrpg_pots_and_mimics_1.0.2_forge_1.20.1.jar"
-hash = "ec932057b0f296049b123f5a0949b161146e960992c835d66906f67138e6ce18"
-
-[[files]]
-file = "mods/realmrpg_quests-0.1.1-forge-1.20.1.jar"
-hash = "15cd8dc07d6519ba1d355c58bf0ff833b3add8f05454441c7cd61ecb082b480a"
-
-[[files]]
-file = "mods/realmrpg_skeletons-1.1.0-forge-1.20.1.jar"
-hash = "5206c8117f3869f6ea894c034f4a18d4def40ef8b0da106eb662ebd4e8ebbf36"
-
-[[files]]
 file = "mods/reap-mod.pw.toml"
 hash = "927eab2af0f803d3c6413fe72557071fd49a7a0df98210c55e2583228e5ff4da"
 metafile = true
@@ -1703,12 +1647,12 @@ metafile = true
 
 [[files]]
 file = "mods/reliquary-reincarnations.pw.toml"
-hash = "47488a6562c760f1964eabb1a3ad962592c29ef2e193f1557c0eded583790e72"
+hash = "295a68e5052fca25552ff669e2a296357dd421d54be7a0774ee6c3b578b38a4a"
 metafile = true
 
 [[files]]
 file = "mods/repurposed-structures.pw.toml"
-hash = "8e6b0e2f6a80820461ea3ca7dd54b3754a89826cbda19edd6fe913802aefd86a"
+hash = "40532a551a414815bed37329b17488e436134840608a5cfdfd19a1f656185689"
 metafile = true
 
 [[files]]
@@ -1788,7 +1732,7 @@ metafile = true
 
 [[files]]
 file = "mods/selene.pw.toml"
-hash = "8c1ddc34636bfb9ab2209a4d387900f03682a65ed5fcf8b5027ffdd9ba49880f"
+hash = "f6e5552989f40475dafca9bed23b26e7948bcbfc8dcab1b5d60ba14f99dbac69"
 metafile = true
 
 [[files]]
@@ -1863,12 +1807,12 @@ metafile = true
 
 [[files]]
 file = "mods/sophisticated-core.pw.toml"
-hash = "228b67d1e0c562f646503405e0494df09f13f25e5df307876a85064efb85103d"
+hash = "1f215c817f70054120ae96e7e382279c1e92729a276dc99075d4a283c5c7fb0f"
 metafile = true
 
 [[files]]
 file = "mods/sophisticated-storage.pw.toml"
-hash = "961e320ce533603244c76e918095fa95a032cb89e3683f7f8e1876636fc51f94"
+hash = "ff4d3c1198011817bd7f201543685a211ccc6d8f9e1e0e1328c3dc141a5a8e0f"
 metafile = true
 
 [[files]]
@@ -1893,7 +1837,7 @@ metafile = true
 
 [[files]]
 file = "mods/structurize.pw.toml"
-hash = "7c9bb766d167c8c586dcc436acf960180b1d79678ffa84e7c13400509ef41424"
+hash = "af081a3460f0ac7fcb6d7fd58a527962597d70e7b652155b9322ec21d59ea931"
 metafile = true
 
 [[files]]
@@ -1988,7 +1932,7 @@ metafile = true
 
 [[files]]
 file = "mods/tinker-and-better-combat.pw.toml"
-hash = "f35ee125e79a4c4915dc9e719672591064f1a9ec5d52a1f55ae07cd984384225"
+hash = "ae964462914269638b6297d88658c3b1a101e5cf595ee38f9221116855672ac0"
 metafile = true
 
 [[files]]
@@ -2023,7 +1967,7 @@ metafile = true
 
 [[files]]
 file = "mods/titanium.pw.toml"
-hash = "5e41fd8f565e09e83868e4c4776154befd3203b01ed5f09b6f7cd27687ec0041"
+hash = "e8be245ed767270ec9abbdba7fe19b1c46fbf877fde14f3704d71b5baea11213"
 metafile = true
 
 [[files]]
@@ -2077,7 +2021,7 @@ metafile = true
 
 [[files]]
 file = "mods/utilitix.pw.toml"
-hash = "74c4f26218215c8075d58111adf839af598af4b3adf31fe072934078407dab84"
+hash = "1c7e2f0289bb5a1b06693322a0b6da796d15071f8dac756c16b898946af7c0f3"
 metafile = true
 
 [[files]]

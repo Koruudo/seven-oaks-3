@@ -1,8 +1,0 @@
-name = "Realm RPG: Pots & Mimics"
-filename = "realmrpg_pots_and_mimics_1.0.2_forge_1.20.1.jar"
-side = "both"
-
-[download]
-url = "https://github.com/Koruudo/seven-oaks-3/raw/refs/heads/main/mods/realmrpg_pots_and_mimics_1.0.2_forge_1.20.1.jar"
-hash-format = "sha1"
-hash = "612e6082f61f9cc56246e42d4039acbbec6159c8"

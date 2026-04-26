@@ -1,8 +1,0 @@
-name = "Realm RPG: Dragon Wyrms"
-filename = "realmrpg_dragon_wyrms_1.0.1_forge_1.20.1.jar"
-side = "both"
-
-[download]
-url = "https://github.com/Koruudo/seven-oaks-3/raw/refs/heads/main/mods/realmrpg_dragon_wyrms_1.0.1_forge_1.20.1.jar"
-hash-format = "sha1"
-hash = "72de4bf43e33b96fdfcd48bd6f9215e40a8f7369"

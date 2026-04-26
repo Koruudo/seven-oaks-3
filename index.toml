@@ -457,7 +457,7 @@ metafile = true
 
 [[files]]
 file = "mods/corail-tombstone.pw.toml"
-hash = "d7a39fc4bd2359ab57fdbffe1f71c3940a7153caab5f966847961928be29ae3b"
+hash = "8167d3178793f3cc02d9973275398b9dcf988419178c11783ff4ae9e20786e4c"
 metafile = true
 
 [[files]]
@@ -1976,8 +1976,8 @@ hash = "1195cdfa90ac4ef4d5ebed8dbca1df990cf58b0a0fe3b9b965ccefa0cfd5a2e3"
 metafile = true
 
 [[files]]
-file = "mods/tombstone-1.20.1-9.0.9.jar"
-hash = "a335131063ae7231c21d902d77f1e43c018807b6a02c733daa4b9a479a32906e"
+file = "mods/tombstone-1.20.1-9.0.10.jar"
+hash = "14b4be93c4be496c21819e59be8ecc197fa72408e09485b4d718cfc1681a8a84"
 
 [[files]]
 file = "mods/too-fast.pw.toml"

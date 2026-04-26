@@ -471,6 +471,11 @@ hash = "28053b4a334c4079b5d4c7ea2d3b8d48f8fa61420498f1bed0ff83cd316bbba0"
 metafile = true
 
 [[files]]
+file = "mods/coroutil.pw.toml"
+hash = "9f2bb57e05bad305f03c25c275c6d11e952835a41b2da68dba10a0bd1f3f6261"
+metafile = true
+
+[[files]]
 file = "mods/cosmetic-armor-reworked.pw.toml"
 hash = "cfa8aa9c0437721dab2057c932c9cf8ec3d3a11f672040601305238d13df85e8"
 metafile = true
@@ -2042,6 +2047,11 @@ metafile = true
 [[files]]
 file = "mods/waystones.pw.toml"
 hash = "5ab6f2a4a50bd53506496d3da0c2c09d5a3ca363c3ebc7ca8641ecd3f7104365"
+metafile = true
+
+[[files]]
+file = "mods/what-are-they-up-to.pw.toml"
+hash = "57d69a930e8272c52bed5f54d2d645e6e3e7eab14435901a5c70dbb4af4005a4"
 metafile = true
 
 [[files]]

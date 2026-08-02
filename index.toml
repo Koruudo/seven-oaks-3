@@ -191,11 +191,6 @@ hash = "95e1e53b02444a363aef8e309fd75422bae1d8844ddf681ba8750f8e6d3e1942"
 metafile = true
 
 [[files]]
-file = "mods/better-compatibility-checker.pw.toml"
-hash = "a167c88b43b73530c14b77d8cfa8c3546ee665ffa317f0451a6767e46bdae0de"
-metafile = true
-
-[[files]]
 file = "mods/better-foliage-renewed.pw.toml"
 hash = "2d080ecbdace19c49d7b3dbe38e7e4b00674adb3c096ad6ef17df49642687735"
 metafile = true

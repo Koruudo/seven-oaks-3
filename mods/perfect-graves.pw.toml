@@ -1,0 +1,13 @@
+name = "Perfect Graves"
+filename = "perfectgraves-1.0.2.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "c2d03a506f8e3c5ea2478b85381ca14b286990d3"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 8035192
+project-id = 1530944

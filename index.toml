@@ -451,11 +451,6 @@ hash = "4101243ecfad34970b81cf6c99f458b67fe848d11870112bc9bab3b16af985eb"
 metafile = true
 
 [[files]]
-file = "mods/corail-tombstone.pw.toml"
-hash = "ee14c38c93ad6afa860737a1ef58c88ca9f147c23a45b17516d00ad9d6acd215"
-metafile = true
-
-[[files]]
 file = "mods/corail-woodcutter.pw.toml"
 hash = "408ec8d7207277770c57bedaec051611b2d5a13143391906bb1e7763d6a24f81"
 metafile = true
@@ -1516,6 +1511,11 @@ hash = "b2cb681aaf3e6085148392a06d40899239dc299aaf5ce0adf168fc225d922c97"
 metafile = true
 
 [[files]]
+file = "mods/perfect-graves.pw.toml"
+hash = "7419be0dbade7795d8f9d7d5e6571c935460dcfffbec90e786a60c74b208c3f8"
+metafile = true
+
+[[files]]
 file = "mods/phosphophyllite.pw.toml"
 hash = "bb8b27c977410a8c66eb0f1ea205798d010e4a875e25d9b288e4cb56e8cb0b3d"
 metafile = true
@@ -1969,10 +1969,6 @@ metafile = true
 file = "mods/toast-control.pw.toml"
 hash = "1195cdfa90ac4ef4d5ebed8dbca1df990cf58b0a0fe3b9b965ccefa0cfd5a2e3"
 metafile = true
-
-[[files]]
-file = "mods/tombstone-1.20.1-9.1.3.jar"
-hash = "9ecfa6768aee0e4f344d866ae51809d34ca5bffcbf9b444b4239419751d259b8"
 
 [[files]]
 file = "mods/too-fast.pw.toml"

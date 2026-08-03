@@ -1,16 +1,13 @@
 name = "Seven Oaks 3"
 author = "Koruudo"
-version = "3.3"
+version = "3.4.3"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "33bd147b42a50df52b4d94c310787ddb5b8fdff35c9a8df4c862b0d16e6502e3"
+hash = "8f5c9f09520d96fa40f1fdedaf7e2a5855414ca8088cd49bfa19b1aa3fe8bbf9"
 
 [versions]
 forge = "47.4.0"
 minecraft = "1.20.1"
-
-[options]
-pinned-game-versions = []

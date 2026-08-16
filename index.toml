@@ -1366,6 +1366,11 @@ hash = "9895bf13e14fbb0b5284f7ad800b1fb3c7d4c373306231d5c6f95a282079fcbe"
 metafile = true
 
 [[files]]
+file = "mods/multiworld-mod.pw.toml"
+hash = "c6ad1d58d96b783b862bc8b486b413811a268c5197c2561435913fc89ff37e47"
+metafile = true
+
+[[files]]
 file = "mods/my-server-is-compatible.pw.toml"
 hash = "d0f90a3d3c7ff22aa3b3b98011932130e66973ce9abb00d75e090cd9ec5e4d0c"
 metafile = true
